@@ -12,12 +12,11 @@ I am an undergraduate Software Engineering student at UET Lahore. I am passionat
  **Tools & OS**  Git, GitHub, VS Code, Windows 
 
 ## Featured Projects
-### 1. Developer Profile README
-- Built and published a professional developer profile README using Git, GitHub, and Markdown syntax.
 
-### 2. Hotel Management System
-- Developed a procedural web  application using Python with CSV file handling and structured user workflows using j=html, css and js.
-
+### 1. Hotel Management System
+- Developed a procedural web  application using Python with CSV file handling and structured user workflows using the html, css and js.
+### 2. University Management System
+- Developed a desktop application using c# and sql for backend and winform for frontend
 ## Education
 - **BS Software Engineering**, University of Engineering and Technology (UET) Lahore
 
